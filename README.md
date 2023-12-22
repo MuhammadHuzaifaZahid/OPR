@@ -1,6 +1,10 @@
 # OPR
 OPR is an iPhone app for UMI Stone. It currently features barcode scanner.
-
+# Technologies Used
+* Xcode 14
+* SwiftUI 
+* Swift
+* CarBode
 # Features
 * Barcode Scanner
 
